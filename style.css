@@ -108,7 +108,7 @@ padding-right: 10px;
 .progress-bar{
     border: 1px solid white;
     height: 4px;
-    background-color:green;
+    background-color:rgb(187, 218, 187);
     border-radius: 5px;
 }
 .skill-progress{
@@ -126,7 +126,7 @@ padding-right: 10px;
 .right-section{
     grid-area: 1/2/3/3;
     grid-column: span 1/span 2;
-    background-color: #cdd4d4;
+    background-color: #cae6e6ad;
     
 }
 .right-main-content{
